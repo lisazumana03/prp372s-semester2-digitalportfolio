@@ -4,13 +4,13 @@
 <img width="1815" height="743" alt="image" src="https://github.com/user-attachments/assets/b87844dd-1c12-4121-ac12-93d8a974e447" />
 
 ### Reflection (STAR technique)
-**Situation:** I had to find a way to communicate queries to companies but I had to use formal tone.
+**Situation:** I had to find a way to communicate queries to companies using formal language.
 
 **Task:** I had to do this module so that I could learn how to communicate in the world of work.
 
 **Action:** I watch YT videos to learn more about formal tone when emailing or faxing company managers.
 
-**Result:** After I applied the formal tone, they answer my queries so that I would get clarity.
+**Result:** After I applied the formal tone, they answer my queries so that I would get clarity on anything I asked.
 
 ## Interview Skills 
 ### Evidence:
@@ -31,7 +31,7 @@
 <img width="1899" height="836" alt="image" src="https://github.com/user-attachments/assets/66d55cef-8e03-45a8-a305-981d69160095" />
 
 ### Reflection (STAR technique)
-**Situation:** I felt anxious for an upcoming interview as I was afraid and shy of answering some questions.
+**Situation:** I felt anxious for an upcoming interview as I was afraid of answering some questions and would fumble with words.
 
 **Task:** I was tasked with creating a video of myself rehearsing for a job interview.
 
@@ -58,10 +58,10 @@
 <img width="1809" height="776" alt="image" src="https://github.com/user-attachments/assets/fb332984-d92a-434e-9d59-027f61c47682" />
 
 ### Reflection (STAR technique)
-**Situation:** I found myself confused on ways of behaving in a workplace.
+**Situation:** I found myself confused on ways of behaving in a workplace and how professional I must be.
 
 **Task:** I was tasked of taking this module to learn more about workplace etiquette.
 
 **Action:** The action taken was that I looked up on how you professional and appropiate I needed to be in a workplace.
 
-**Result:** I applied the terminologies I learnt in this module and was professional in my place of work.
+**Result:** I applied the concepts learnt in this module and was professional in my place of work.
