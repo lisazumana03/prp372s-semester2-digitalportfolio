@@ -8,7 +8,7 @@
 
 **Task:** I had to do this module so that I could learn how to communicate in the world of work.
 
-**Action:** I watch YT videos to learn more about formal tone when emailing company managers.
+**Action:** I watch YT videos to learn more about formal tone when emailing or faxing company managers.
 
 **Result:** After I applied the formal tone, they answer my queries so that I would get clarity.
 
@@ -49,7 +49,7 @@
 
 **Task:** I took this course as a way to guide me on professional networking.
 
-**Action:**
+**Action:** The action that I took was that I also look at various methods of networking as a way of finding connections.
 
 **Result:** After completing the course, I was able to connect with people through various platforms.
 
@@ -62,6 +62,6 @@
 
 **Task:** I was tasked of taking this module to learn more about workplace etiquette.
 
-**Action:** The action taken was that I 
+**Action:** The action taken was that I looked up on how you professional and appropiate I needed to be in a workplace.
 
 **Result:** I applied the terminologies I learnt in this module and was professional in my place of work.
