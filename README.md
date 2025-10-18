@@ -34,7 +34,7 @@
 
 **Result:**
 
-## Business Communication
+## Professional Networking
 ### Evidence
 ### Reflection (STAR technique)
 **Situation:** 
@@ -45,7 +45,7 @@
 
 **Result:**
 
-## Business Communication
+## Workplace Etiquitte
 ### Evidence
 ### Reflection (STAR technique)
 **Situation:** 
@@ -55,5 +55,3 @@
 **Action:**
 
 **Result:**
-
-
