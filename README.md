@@ -20,9 +20,9 @@
 ### Reflection (STAR technique)
 **Situation:** I was struggling to learn the basics of a job interview such as requirements, the methods including the questions.
 
-**Task:**
+**Task:** I took this course so that I could learn how to master interview skills.
 
-**Action:** 
+**Action:** I took down on paper what was to be expected when doing an interview.
 
 **Result:** I felt confident that I would have the required skills to take part in an interview.
 
@@ -45,13 +45,13 @@
 
 
 ### Reflection (STAR technique)
-**Situation:** 
+**Situation:** I was in a situation where I wasn't able to find connections through a network.
 
-**Task:**
+**Task:** I took this course as a way to guide me on professional networking.
 
 **Action:**
 
-**Result:**
+**Result:** After completing the course, I was able to connect with people through various platforms.
 
 ## Workplace Etiquitte
 ### Evidence
@@ -62,6 +62,6 @@
 
 **Task:** I was tasked of taking this module to learn more about workplace etiquette.
 
-**Action:**
+**Action:** The action taken was that I 
 
 **Result:** I applied the terminologies I learnt in this module and was professional in my place of work.
