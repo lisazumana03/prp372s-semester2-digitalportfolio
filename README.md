@@ -18,29 +18,32 @@
 
 
 ### Reflection (STAR technique)
-**Situation:** I was struggling to learn the basics of a job interview such as requirements or the methods.
+**Situation:** I was struggling to learn the basics of a job interview such as requirements, the methods including the questions.
 
 **Task:**
 
-**Action:**
+**Action:** 
 
-**Result:**
+**Result:** I felt confident that I would have the required skills to take part in an interview.
 
 ## Mock Interview
-### Evidence
+### Evidence:
 <img width="1899" height="836" alt="image" src="https://github.com/user-attachments/assets/66d55cef-8e03-45a8-a305-981d69160095" />
 
 ### Reflection (STAR technique)
-**Situation:** I felt anxious for an upcoming interview
+**Situation:** I felt anxious for an upcoming interview as I was afraid and shy of answering some questions.
 
-**Task:**
+**Task:** I was tasked with creating a video of myself rehearsing for a job interview.
 
-**Action:** The action I took was that I filmed a mock interview
+**Action:** The action I took was that I filmed a mock interview as a way of practicing for a real life interview.
 
 **Result:** After I did the mock interview, I answered the questions confidently and waited for the outcome.
 
 ## Professional Networking
-### Evidence
+### Evidence:
+<img width="1795" height="898" alt="image" src="https://github.com/user-attachments/assets/bb5660c9-44a9-44c6-8cd3-fb1df4830056" />
+
+
 ### Reflection (STAR technique)
 **Situation:** 
 
