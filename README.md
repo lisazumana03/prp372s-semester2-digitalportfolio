@@ -13,9 +13,12 @@
 **Result:** After I applied the formal tone, they answer my queries so that I would get clarity.
 
 ## Interview Skills 
-### Evidence
+### Evidence:
+<img width="1785" height="900" alt="image" src="https://github.com/user-attachments/assets/3563e788-8df4-4fa2-bc75-5c75fa21381b" />
+
+
 ### Reflection (STAR technique)
-**Situation:** 
+**Situation:** I was struggling to learn the basics of a job interview such as requirements or the methods.
 
 **Task:**
 
