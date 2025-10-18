@@ -2,6 +2,7 @@
 ## Business Communication
 ### Evidence:
 <img width="1815" height="743" alt="image" src="https://github.com/user-attachments/assets/b87844dd-1c12-4121-ac12-93d8a974e447" />
+
 ### Reflection (STAR technique)
 **Situation:** I had to find a way to communicate queries to companies but I had to use formal tone.
 
@@ -22,16 +23,18 @@
 
 **Result:**
 
-## Business Communication
+## Mock Interview
 ### Evidence
+<img width="1899" height="836" alt="image" src="https://github.com/user-attachments/assets/66d55cef-8e03-45a8-a305-981d69160095" />
+
 ### Reflection (STAR technique)
-**Situation:** 
+**Situation:** I felt anxious for an upcoming interview
 
 **Task:**
 
-**Action:**
+**Action:** The action I took was that I filmed a mock interview
 
-**Result:**
+**Result:** After I did the mock interview, I answered the questions confidently and waited for the outcome.
 
 ## Professional Networking
 ### Evidence
@@ -46,6 +49,8 @@
 
 ## Workplace Etiquitte
 ### Evidence
+<img width="1809" height="776" alt="image" src="https://github.com/user-attachments/assets/fb332984-d92a-434e-9d59-027f61c47682" />
+
 ### Reflection (STAR technique)
 **Situation:** 
 
