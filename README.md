@@ -58,10 +58,10 @@
 <img width="1809" height="776" alt="image" src="https://github.com/user-attachments/assets/fb332984-d92a-434e-9d59-027f61c47682" />
 
 ### Reflection (STAR technique)
-**Situation:** 
+**Situation:** I found myself confused on ways of behaving in a workplace.
 
-**Task:**
+**Task:** I was tasked of taking this module to learn more about workplace etiquette.
 
 **Action:**
 
-**Result:**
+**Result:** I applied the terminologies I learnt in this module and was professional in my place of work.
